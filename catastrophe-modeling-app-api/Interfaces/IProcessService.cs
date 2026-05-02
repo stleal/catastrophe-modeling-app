@@ -2,5 +2,5 @@ using Microsoft.AspNetCore.Mvc;
 
 public interface IProcessService
 {
-  List<StormObject> ProcessHURDAT2();
+  List<StormInfo> ProcessHURDAT2(IFormFile file);
 }

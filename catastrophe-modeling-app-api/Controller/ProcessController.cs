@@ -16,6 +16,7 @@ public class ProcessController : ControllerBase
   [HttpPost("ProcessHURDAT2")]
   public async Task<IActionResult> ProcessHURDAT2(IFormFile file)
   {
-    return Ok();
+    List<StormInfo> stormInfoList = _processService!.ProcessHURDAT2(file);
+    return Ok(stormInfoList);
   }
 }
