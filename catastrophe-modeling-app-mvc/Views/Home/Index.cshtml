@@ -1,5 +1,10 @@
-﻿@{
+﻿@using System.Text.Json
+@model IEnumerable<StormInfo>
+
+@{
     ViewData["Title"] = "Home Page";
+    var storms = (Model ?? System.Linq.Enumerable.Empty<StormInfo>()).ToList();
+    var stormInfoDisplay = storms.Any() ? "block" : "none";
 }
 
 <div>
@@ -19,10 +24,39 @@
         </table>
     </form>
 
-    <table>
-        <tr>Name of Storm</tr>
-        <tr>Date of Landfall</tr>
-        <tr>Maximum Windspeed Achieved</tr>
-    </table>
+    <div id="stormInfoSection" style="display:@stormInfoDisplay; margin-top: 1rem;">
+        <h2>Storm Info</h2>
+        <div class="storm-table-controls">
+            <label for="pageSizeSelect">Records per page:</label>
+            <select id="pageSizeSelect">
+                <option value="10">10</option>
+                <option value="25">25</option>
+                <option value="50">50</option>
+                <option value="100">100</option>
+            </select>
+        </div>
+        <table id="stormInfoTable" class="storm-table">
+            <thead>
+                <tr>
+                    <th>Name of Storm</th>
+                    <th>Date of Landfall</th>
+                    <th>Maximum Windspeed Achieved</th>
+                </tr>
+            </thead>
+            <tbody id="stormInfoTableBody">
+                @foreach (var storm in storms)
+                {
+                    <tr>
+                        <td>@storm.StormName</td>
+                        <td>@storm.DateOfLandfall.ToString("yyyy-MM-dd")</td>
+                        <td>@storm.MaxWind</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div id="stormPagination" class="storm-pagination"></div>
+    </div>
+
+    <script id="initialStormData" type="application/json">@Html.Raw(JsonSerializer.Serialize(storms))</script>
 
 </div>

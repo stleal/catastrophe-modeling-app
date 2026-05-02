@@ -21,6 +21,46 @@ body {
   margin-bottom: 60px;
 }
 
+.storm-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.storm-table th,
+.storm-table td {
+  border: 1px solid #000;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.storm-table-controls {
+  margin-top: 1rem;
+}
+
+.storm-pagination {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.page-button {
+  border: 1px solid #000;
+  background: #fff;
+  color: #000;
+  padding: 0.4rem 0.75rem;
+}
+
+.page-button.active {
+  background: #000;
+  color: #fff;
+}
+
+.page-button:disabled {
+  opacity: 0.5;
+}
+
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
   color: var(--bs-secondary-color);
   text-align: end;

@@ -119,7 +119,6 @@ C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\React\catas
 C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\React\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\React\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\scopedcss\bundle\catastrophe-modeling-app-mvc.styles.css
 C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\React\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\scopedcss\projectbundle\catastrophe-modeling-app-mvc.bundle.scp.css
-C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\React\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\compressed\4bq5ds4eza-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\React\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\compressed\icb7ok8h5t-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\React\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\compressed\zaqpqspmut-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\React\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\compressed\4s43bt789g-{0}-c2jlpeoesf-c2jlpeoesf.gz
@@ -193,4 +192,5 @@ C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\React\catas
 C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\React\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\catastrophe-modeling-app-mvc.genruntimeconfig.cache
 C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\React\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\ref\catastrophe-modeling-app-mvc.dll
 C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\React\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\compressed\35ym3l7627-{0}-viepxtfc80-viepxtfc80.gz
-C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\React\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\compressed\h49xsk5gf8-{0}-hh0tos887o-hh0tos887o.gz
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\React\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\compressed\4bq5ds4eza-{0}-3ecg3j86lm-3ecg3j86lm.gz
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\React\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\compressed\h49xsk5gf8-{0}-yzm9e9dwuq-yzm9e9dwuq.gz
