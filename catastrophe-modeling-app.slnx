@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="catastrophe-modeling-app-mvc/catastrophe-modeling-app-mvc.csproj" />
+  <Project Path="catastrophe-modeling-app-worker/catastrophe-modeling-app-worker.csproj" />
+</Solution>
