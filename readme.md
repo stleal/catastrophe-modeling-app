@@ -1,8 +1,8 @@
 # Step 1 #
 
-1. Open three (3) separate instances of Visual Studio
+Open three (3) separate instances of Visual Studio
 
-Next,
+# Step 2 #
 
 1. Run the worker service
 2. Run the web api service
