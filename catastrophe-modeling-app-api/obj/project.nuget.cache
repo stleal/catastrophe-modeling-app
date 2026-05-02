@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gMS5FcC4jQs=",
+  "dgSpecHash": "YA4TD9/tX1o=",
   "success": true,
-  "projectFilePath": "c:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\KCC\\React\\catastrophe-modeling-app\\catastrophe-modeling-app-api\\catastrophe-modeling-app-api.csproj",
+  "projectFilePath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\KCC\\React\\catastrophe-modeling-app\\catastrophe-modeling-app-api\\catastrophe-modeling-app-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LealS\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
     "C:\\Users\\LealS\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
