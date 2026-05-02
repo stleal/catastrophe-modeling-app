@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("catastrophe-modeling-app-mvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28af9d53e0ab2c85c04af81964301a971d0272ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1193e6a42a9a8c05d2732dc1288c137f133fe41d")]
 [assembly: System.Reflection.AssemblyProductAttribute("catastrophe-modeling-app-mvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("catastrophe-modeling-app-mvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
