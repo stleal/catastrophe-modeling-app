@@ -158,7 +158,7 @@
     formData.append("file", file);
 
     $.ajax({
-      url: "https://localhost:7075/api/Process/ProcessHURDAT2",
+      url: "https://localhost:7065/api/Process/ProcessHURDAT2",
       type: "POST",
       data: formData,
       processData: false,

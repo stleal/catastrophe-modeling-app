@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\KCC\\React\\catastrophe-modeling-app\\catastrophe-modeling-app-mvc\\catastrophe-modeling-app-mvc.csproj",
+      "projectUniqueName": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\KCC\\catastrophe-modeling-app\\catastrophe-modeling-app-mvc\\catastrophe-modeling-app-mvc.csproj",
       "projectName": "catastrophe-modeling-app-mvc",
-      "projectPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\KCC\\React\\catastrophe-modeling-app\\catastrophe-modeling-app-mvc\\catastrophe-modeling-app-mvc.csproj",
+      "projectPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\KCC\\catastrophe-modeling-app\\catastrophe-modeling-app-mvc\\catastrophe-modeling-app-mvc.csproj",
       "packagesPath": "C:\\Users\\LealS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\KCC\\React\\catastrophe-modeling-app\\catastrophe-modeling-app-mvc\\obj\\",
+      "outputPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\KCC\\catastrophe-modeling-app\\catastrophe-modeling-app-mvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

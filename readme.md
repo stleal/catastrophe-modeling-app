@@ -52,7 +52,7 @@ dotnet run --project .\catastrophe-modeling-app-api\catastrophe-modeling-app-api
 
 The API runs on:
 
-- `https://localhost:7075`
+- `https://localhost:7065`
 - `http://localhost:5139`
 
 ### 2. Start the MVC Application
@@ -90,6 +90,6 @@ When processing completes, the page displays a report table containing:
 
 ## Notes
 
-- The MVC app submits the uploaded file to the API endpoint at `https://localhost:7075/api/Process/ProcessHURDAT2`.
+- The MVC app submits the uploaded file to the API endpoint at `https://localhost:7065/api/Process/ProcessHURDAT2`.
 - The API must be running before you click `Submit`, or the upload request will fail.
 - The results table supports paging in the browser after the data is returned.
