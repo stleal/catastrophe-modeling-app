@@ -72,6 +72,12 @@ Open the MVC site in your browser:
 
 - `https://localhost:7032`
 
+## Sample Data File
+
+The HURDAT2 dataset is included in the repository at `./Data/hurdat2-1851-2025-02272026.txt`.
+
+After starting the API project and then the MVC project, click the `Upload` button on the home page, select this file, and submit to view the Florida landfall results.
+
 ## Use The Application
 
 After both applications are running:
