@@ -35,7 +35,18 @@ body {
 }
 
 .storm-table-controls {
-  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.storm-table-controls label {
+  margin-bottom: 0;
+}
+
+.storm-table-controls select {
+  width: auto;
 }
 
 .storm-pagination {

@@ -22,10 +22,8 @@ c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\catastrophe
 c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\scopedcss\bundle\catastrophe-modeling-app-mvc.styles.css
 c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\scopedcss\projectbundle\catastrophe-modeling-app-mvc.bundle.scp.css
-c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\compressed\4bq5ds4eza-{0}-3ecg3j86lm-3ecg3j86lm.gz
 c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\compressed\icb7ok8h5t-{0}-61n19gt1b8-61n19gt1b8.gz
 c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\compressed\35ym3l7627-{0}-viepxtfc80-viepxtfc80.gz
-c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\compressed\h49xsk5gf8-{0}-aqwhxo4agn-aqwhxo4agn.gz
 c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\compressed\zaqpqspmut-{0}-bqjiyaj88i-bqjiyaj88i.gz
 c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\compressed\4s43bt789g-{0}-c2jlpeoesf-c2jlpeoesf.gz
 c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\compressed\93bn3kof2a-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -97,3 +95,6 @@ c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\catastrophe
 c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\catastrophe-modeling-app-mvc.pdb
 c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\catastrophe-modeling-app-mvc.genruntimeconfig.cache
 c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\ref\catastrophe-modeling-app-mvc.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\compressed\aj7jgguik7-{0}-evtxl8ohto-evtxl8ohto.gz
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\compressed\4bq5ds4eza-{0}-vk0rqd1s6s-vk0rqd1s6s.gz
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\KCC\catastrophe-modeling-app\catastrophe-modeling-app-mvc\obj\Debug\net10.0\compressed\h49xsk5gf8-{0}-aqwhxo4agn-aqwhxo4agn.gz
