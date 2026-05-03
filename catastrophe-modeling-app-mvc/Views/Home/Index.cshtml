@@ -25,43 +25,41 @@
         </div>
     </div>
 
-    <div id="stormInfoSection" class="card text-white mb-3" style="max-width: 80rem; background-color: #1c3d6e; padding: 1rem; display:@stormInfoDisplay">
-        <div class="card-header">Storm Info</div>
-        <div class="card-body">
-            <div class="storm-table-controls">
-                <label for="pageSizeSelect">Records per page:</label>
-                <select id="pageSizeSelect">
-                    <option value="10">10</option>
-                    <option value="25">25</option>
-                    <option value="50">50</option>
-                    <option value="100">100</option>
-                </select>
-            </div>
-
-            <div class="table-responsive">
-                <table id="stormInfoTable" class="storm-table">
-                    <thead>
-                        <tr>
-                            <th>Name of Storm</th>
-                            <th>Date of Landfall</th>
-                            <th>Maximum Windspeed Achieved</th>
-                        </tr>
-                    </thead>
-                    <tbody id="stormInfoTableBody">
-                        @foreach (var storm in storms)
-                        {
-                            <tr>
-                                <td>@storm.StormName</td>
-                                <td>@storm.DateOfLandfall.ToString("yyyy-MM-dd")</td>
-                                <td>@storm.MaxWind</td>
-                            </tr>
-                        }
-                    </tbody>
-                </table>
-            </div>
-
-            <div id="stormPagination" class="storm-pagination"></div>
+    <div id="stormInfoSection" style="max-width: 80rem; display:@stormInfoDisplay">
+        <h2>Storm Info</h2><br/>
+        <div class="storm-table-controls">
+            <label for="pageSizeSelect">Records per page:</label>
+            <select id="pageSizeSelect">
+                <option value="10">10</option>
+                <option value="25">25</option>
+                <option value="50">50</option>
+                <option value="100">100</option>
+            </select>
         </div>
+
+        <div class="table-responsive">
+            <table id="stormInfoTable" class="storm-table">
+                <thead>
+                    <tr>
+                        <th>Name of Storm</th>
+                        <th>Date of Landfall</th>
+                        <th>Maximum Windspeed Achieved</th>
+                    </tr>
+                </thead>
+                <tbody id="stormInfoTableBody">
+                    @foreach (var storm in storms)
+                    {
+                        <tr>
+                            <td>@storm.StormName</td>
+                            <td>@storm.DateOfLandfall.ToString("yyyy-MM-dd")</td>
+                            <td>@storm.MaxWind</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <div id="stormPagination" class="storm-pagination"></div>
     </div>
 </div>
 
